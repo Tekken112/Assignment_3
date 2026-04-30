@@ -4,7 +4,7 @@ public class TestBST {
 
         tree.put(5, "Five");
         tree.put(3, "Three");
-        tree.put(7, "Seven");
+        tree.put(6, "Six");
         tree.put(2, "Two");
         tree.put(4, "Four");
 
